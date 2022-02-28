@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new remonstrance of the free-born people of England: concerning this present Parliament, and a new representative: with their earnest desires and propositions touching the same. Together, with a prophecy of the Right Honourable, Sir Francis Bacon, late Lord Chancellor of England, concerning the wars and government of this Common-wealth: with advice and instructions to be observed by all persons whatsoever. As also, observations touching the King, Parliament, army, Presbytery, and independency; in relation to new-lights, and new-devises. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90025</idno>
+            <idno type="STC">Wing N744</idno>
+            <idno type="STC">Thomason E645_13</idno>
+            <idno type="STC">ESTC R208820</idno>
+            <idno type="EEBO-CITATION">99867742</idno>
+            <idno type="PROQUEST">99867742</idno>
+            <idno type="VID">165988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165988)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E645[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new remonstrance of the free-born people of England: concerning this present Parliament, and a new representative: with their earnest desires and propositions touching the same. Together, with a prophecy of the Right Honourable, Sir Francis Bacon, late Lord Chancellor of England, concerning the wars and government of this Common-wealth: with advice and instructions to be observed by all persons whatsoever. As also, observations touching the King, Parliament, army, Presbytery, and independency; in relation to new-lights, and new-devises. Published by authority.</title>
+                  <author>Bacon, Francis, 1561-1626.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton, and are to be sold at the Royal Exchange in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes "A prophecie, written by Sir Francis Bacon, late Lord Chancellour of England".</note>
+                  <note>Annotation on Thomason copy: "Nouemb 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165988:1" rendition="simple:additions"/>
+            <p>A NEW REMONSTRANCE OF THE FREE-BORN PEOPLE OF ENGLAND: CONCERNING This preſent Parliament, and a new Repre<g ref="char:EOLhyphen"/>ſentative: With their earneſt Deſires and Propoſitions touching the ſame.</p>
+            <p>TOGETHER, With a Prophecy of the Right Honoura<g ref="char:EOLhyphen"/>ble, Sir Francis Bacon, late Lord Chancellor of <hi>England,</hi> concerning the Wars and Government of this Common-wealth: with Advice and Inſtructions to be obſerved by all Perſons whatſoever.</p>
+            <p>AS ALSO, Obſervations touching the King, Parlia<g ref="char:EOLhyphen"/>ment, Army, Presbytery, and Independency; in relation to New-Lights, and New-Deviſes.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> and are to be ſold at the Royal Exchange in <hi>Corn-hill, 1651.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:165988:2"/>
+            <pb n="1" facs="tcp:165988:2"/>
+            <head>A new Declaration concerning the Parlia<g ref="char:EOLhyphen"/>ment. And the Propheſie of that famous and learned Lawyer, Sir FRANCIS BACON, late Lord Chancellor of Eng<g ref="char:EOLhyphen"/>land.</head>
+            <p>WHereas future Poſterities may admire the magni<g ref="char:EOLhyphen"/>tude of thoſe Actions, performed by the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> ſince their firſt convening; even ſo may this preſent Age conclude them to be men of brave and undaunted ſpirits, that durſt attempt ſo high, ſo great mutations in a Kingdom, whereinto leſſe then 25 Kings and Queens had ſuccesfully reigned: inſomuch, that it is an Ar<g ref="char:EOLhyphen"/>gument ſufficient to convince the people of this Nation, that they were men of admirable reſolutions, and guided by divine Councels, that through ſo many Meanders of good and adverſe fortune, ſo many treaſons even of their own Members, and contrary judgements within and without the Walls of their own Houſe, yet at length foyling all their Enemies, have brought themſelves and the people of this Nation to a ſecure Harbor.</p>
+            <pb n="2" facs="tcp:165988:3"/>
+            <p>And behold, even now, when they might happily have expected reſt for themſelves, and thanks from this people, for whoſe ſakes they have ſo dangerouſly adventured ma<g ref="char:EOLhyphen"/>ny of their perſons, moſt of them their Eſtates; Providence it ſeems will have another Generation to enter upon this work, and if poſſible, finiſh that great Building, whoſe foun<g ref="char:EOLhyphen"/>dation themſelves have with ſo great induſtry laid. But in<g ref="char:EOLhyphen"/>deed, Prophets have ſeldom any honour in their own Countrey: Chriſt ſpoke it, and it is true; as alſo, that ſome of their Members have acted, as men being derived from the Progeny of <hi>Adam;</hi> their miſactings cannot ble<g ref="char:EOLhyphen"/>miſh the whole Houſe; for the Countries from whence they came, elected men to act for them, not Gods, Saints, or Angels, for theſe are not commanded by men, or are their Habitations upon earth: Were not our judgements preva<g ref="char:EOLhyphen"/>ricated, we might know, this Parliament it ſelf is no more harmed by ſome mens failings, then the ſound body of a ſtrong Oak by rotten branches falling from it: Now may the good Angels of God preſerve them, and let Poſterity never mention any of their Names, without <hi>Encomiums</hi> of Honour due unto their merits.</p>
+            <p>
+               <hi>This is the ſence and Remonſtrance of divers of the free-born people of</hi> England.</p>
+            <p>But old things muſt now be laid aſide, the whole Nation are in expectancy of a new Parliament; very greedy of Novelties and changes we are, (for ſo the Heavens at pre<g ref="char:EOLhyphen"/>ſent incline us) ſo were the Jews of old in craving a King; ſo we in 1639. and 1640. were ſtark mad to have a Parliament: God was angry with the Jews for their raſhneſs, and thou<g ref="char:EOLhyphen"/>ſands of our Nation repent their forwardneſs in promoting the convention of this Parliament: We cry <hi>Hoſanna</hi> to day, crucifie to morrow; nor full or empty bellies content us; when Gold was more plenty then now Silver is, we repi<g ref="char:EOLhyphen"/>ned; when we abounded, we muttered; now we are poor we do but grumble.</p>
+            <pb n="3" facs="tcp:165988:3"/>
+            <p>Nor King, or Parliament, or Army, or Presbytery, or Independency will pleaſe us long; <hi>New Lights, New Devices.</hi> What ſhall the God of Eternity do to ſatisfie every one of us? What ſhall this preſent Authority do? or that which ſhall ſucceed hereafter to give every curious fancy content? Oh people of <hi>England,</hi> be wiſe unto ſobriety; ſeek the glo<g ref="char:EOLhyphen"/>ry of God, and not your ſelves; ſupplicate Almighty God, that he permit his miniſtring Angels (not Prieſts) to direct you, when you do elect new Members for a ſucceeding Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>I beſeech you, let us in all humbleneſs repreſent our thankfulneſs to theſe preſent Members, who now ſit at the Helm of Judicature, for that liberty and good (which if not unthankful) we muſt attribute to have received from their labour.</p>
+            <p>Let us now ſend into the Houſe of Parliament as many Repreſentations of our loves and kind acceptances of their pains and carefulneſs for us, as formerly we did of vain and very unneceſſary Petitions: Such acknowledgements from us, will encourage thoſe whom providence ſhall elect to ſucceed, to endeavour with their uttermoſt abilities to ſerve the Commonalty.</p>
+            <p>Let us wink at the ſmall faults of ſome, and the perſonal failings of others amongſt them; but let us ſpare the tyran<g ref="char:EOLhyphen"/>ny of none.</p>
+            <p>Let us do what we do conſcientiouſly, and nothing raſh<g ref="char:EOLhyphen"/>ly, or in a giddy homour. Oh <hi>England,</hi> what ever we do, let us unanimouſly reverence the great Authority it ſelf, let us maintain and ſupport its greatneſs and Majeſty with a venerable Reverence. Let us above all things keep up the <hi>Parliaments</hi> Supremacy above the Souldier or Divine; <hi>Om<g ref="char:EOLhyphen"/>nia ſubject a ſunto autoritati Parlamenti Anglorum.</hi>
+            </p>
+         </div>
+         <div type="prophecy">
+            <pb n="4" facs="tcp:165988:4"/>
+            <head>A Prophecie, Written by Sir Francis Ba<g ref="char:EOLhyphen"/>con, late Lord Chancellour of England.</head>
+            <q>
+               <l>ENglands worſt is well-neer run,</l>
+               <l>The loud Pipe ſtopt, the Fife and Drum.</l>
+            </q>
+            <p>The Earl of Derby a prime Ringleader in Lancaſhire is now dead, and his Pipe ſtopt, ſo alſo the loud bagpiping Presbyte<g ref="char:EOLhyphen"/>rian Prieſts of that Countrey: We are poſ<g ref="char:EOLhyphen"/>ſeſt of Fife in Scotland, the Drums begin to be ſilent. This Prophecy wrote one hun<g ref="char:EOLhyphen"/>dred years ſince, is even now fulfilled.</p>
+            <q>
+               <l>There ſhall be ſeen upon a day</l>
+               <l>Betwixt the Baſs and the May,<note place="margin">d. alias <hi>Baugh.</hi>
+                  </note>
+               </l>
+               <l>The black Fleet of <hi>Norway;</hi>
+               </l>
+               <l>When that that is come and gone,</l>
+               <l>
+                  <hi>England</hi> build houſes of lime and ſtone,</l>
+               <l>For after Wars ſhall you have none.</l>
+            </q>
+            <p>The Baſs and the Baugh are two Iſlands in the
+<pb n="5" facs="tcp:165988:4"/>mouth of the River that goeth up to Edinborough, where our Fleet lay 1650.</p>
+            <p>So that now we may now ſafely buy houſes, pur<g ref="char:EOLhyphen"/>chaſe Lands, either Crown, Biſhops, Deans, or De<g ref="char:EOLhyphen"/>linquents, with full confidence of poſſeſſing our Pur<g ref="char:EOLhyphen"/>chaſes, untill Doomes-day. There's no ſcruple in the Parliaments Title, Kings did the ſame to Tray<g ref="char:EOLhyphen"/>tors, as now our State doth to Delinquents. Henry the 8. ſold Abbies and Munkeries; We Biſhops and Deaneries; the Poſſeſſors were moſt part Lubbers and Droans, did God no ſervice; <hi>Ergo,</hi> There's no Sacrilege committed in the ſale of theſe Lands. And many there are that do aver, That this Nation ſhall be ever from this time quite free from War: For aſſu<g ref="char:EOLhyphen"/>redly no Forraigner hereafter ſhall ever plant or fix his Seat here; nor ſhall we have any more Kings to reign over us. Yet ſhall Charles Stuart indeavour to diſturb our peace; and from Denmark, Sweden, and other parts, get an Armado to Sea; but about the 7. day of July, 1652. there will happen a great fight; between the Engliſh Fleet, and his Armado; and af<g ref="char:EOLhyphen"/>ter a bloudy Conteſt, his whole Navy will be ſunk, taken, and diſperſed; and himſelf in perilous danger of ſuffering by ſhipwrack. The Dutch will likewiſe be troubleſome this Year at Sea; but we ſhall make them tame enough quickly.</p>
+            <pb n="6" facs="tcp:165988:5"/>
+            <p>There hath been within this 116. years five Conjunctions in the ſign <hi>Leo.</hi> The influence of this conjunction intimates oppreſſion unto the poor, divided opinions amongſt our Governours; diſturbances and emnities amongſt the Soul<g ref="char:EOLhyphen"/>dierie; the diſplacing of worthy men, preferment of vul<g ref="char:EOLhyphen"/>gar ſneaking fellows; loſſe and damage in <hi>Scotland</hi> by trea<g ref="char:EOLhyphen"/>chery, by neglect of ſuch as are truſted in Authority, the downfall or queſtioning of many Miniſters; ſeveral Hereſies or very uncouth opinions in Religion do take their origi<g ref="char:EOLhyphen"/>nal.</p>
+            <p>The minds of men incited through Choller and diſcon<g ref="char:EOLhyphen"/>tent to Rebellion, and contempt of Authority: much ſcorn<g ref="char:EOLhyphen"/>ing of ſuperiors; both the temporal Lawes and Eccleſiaſti<g ref="char:EOLhyphen"/>cal queſtioned, ſtrange and fearful ſickneſſes, private mur<g ref="char:EOLhyphen"/>thers, poyſons, caſually many fires to the great impover<g ref="char:EOLhyphen"/>iſhing of the people; very deſperate Sea-fights all over <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+            </p>
+            <p>Uproars, blood, Wars, tumults, rebellion in <hi>France;</hi> either ſickneſs, death, or ſtrange misfortunes unto the <hi>French</hi> King. <hi>James</hi> Duke of <hi>York</hi> is threatned by this conjunction, with either hurt by fire, or a deſperate Feaver, <hi>&amp;c.</hi>
+            </p>
+            <p>Women ſubject to abortions, or hard labor in the birth of their Children; many tertian and quartain Agues, a ge<g ref="char:EOLhyphen"/>neral Mortality threatned both on Men and Cattle: the temperature of mens bodies ſo poyſoned by infectious ayres, that a plague moſt probably will afflict us ere the in<g ref="char:EOLhyphen"/>fluence of this conjunction depart from us, which will not be till 1654. is almoſt ended.</p>
+            <p>I only ſay, the greateſt vigor of this Conjunction ſhall expreſs it ſelf in Councels and Action near about <hi>February, March,</hi> and <hi>April</hi> next</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
